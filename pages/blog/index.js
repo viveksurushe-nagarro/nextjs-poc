@@ -3,7 +3,7 @@ import Link from 'next/link'
 function BlogList() {
 
     return (<>
-        <h1>Blog List</h1>
+        <h3>Blog List</h3>
         <ul>
             <li>
                 <Link href='/blog/1' passHref>One</Link>

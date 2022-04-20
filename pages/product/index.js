@@ -3,7 +3,7 @@ import Link from 'next/link'
 function Product() {
 
     return(<>
-        <h1>Prodct list Components</h1>
+        <h3>Product list</h3>
         <ul>
             <li>
                 <Link href='/product/1' passHref>One</Link>
